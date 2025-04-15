@@ -12,7 +12,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,electron,mongodb,postgres,redis,rabbitmq,docker,git" />
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,react,electron,mongodb,postgres,redis,rabbitmq,docker,git,grafana,sentry" />
 </p>
 
 ---
@@ -37,6 +37,13 @@ Integrated deeply with scraping backend and local storage.
 Developed a service for syncing databases of a web application with an external CRM system.  
 Ensured smooth data synchronization and high availability.  
 **Tech:** Node.js, JavaScript, MongoDB, Redis
+
+---
+
+#### 📈 Full-Stack Analytics Platform for DeFi Yield Tracking
+Built a full-featured web application for analyzing the potential profitability of DeFi tokens and liquidity pools.  
+One of the core components was a service for collecting data on existing DeFi projects and calculating estimated yield percentages based on custom analytical formulas.  
+**Tech:** JavaScript, Express, MongoDB, JWT, React, MobX, Material UI
 
 ---
 
