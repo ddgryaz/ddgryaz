@@ -22,7 +22,7 @@
 #### 🕸️ Distributed Web Scraping Platform
 Built a scalable scraping infrastructure for collecting data from hundreds of e-commerce and classified websites.  
 Implemented browser automation, proxy rotation, CAPTCHA solving, and data normalization pipelines.  
-**Tech:** Node.js, TypeScript, Puppeteer, MongoDB, Redis, RabbitMQ, Docker
+**Tech:** Node.js, TypeScript, Playwright, MongoDB, Redis, RabbitMQ, Docker
 
 ---
 
